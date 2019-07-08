@@ -1,0 +1,12 @@
+export const SIGN_IN = 'sign_in';
+export const SIGN_UP = 'sign_up';
+export const AUTO_SIGN_IN = 'auto_sign_in';
+export const ADD_PLACE = 'add_place';
+export const GET_USER_PLACES = 'get_user_places';
+export const DELETE_USER_PLACE = 'delete_user_place';
+export const PROCESS_PLACE_START = 'process_place_start';
+export const PROCESS_PLACE_END = 'process_place_end';
+export const SEARCH_PLACE = 'search_place';
+export const RATE_PLACE = 'rate_place';
+export const Logout = 'Logout';
+export const USER_INFO = 'user_info';
