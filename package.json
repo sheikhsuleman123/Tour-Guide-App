@@ -10,7 +10,7 @@
     "@react-native-community/async-storage": "^1.4.0",
     "axios": "^0.18.0",
     "install": "^0.12.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "native-base": "^2.12.1",
     "npm": "^6.9.0",
     "react": "16.8.3",
